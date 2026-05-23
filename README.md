@@ -98,4 +98,4 @@ When you are ready to publish:
 
 Feel free to fork this project, open issues, or submit pull requests!
 
-Created with ❤️ by John.
+Created with ❤️
